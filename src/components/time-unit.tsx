@@ -1,6 +1,6 @@
 import { cn } from "@/utils/tailwind-utils";
 import { type Alphabet, alphabets } from "@/utils/alphabet-utils";
-import NumberRotation from "./number-rotation";
+import { NumberRotation } from "./number-rotation";
 
 const TimeUnit = ({
   label,
